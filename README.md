@@ -10,7 +10,7 @@
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Hyeong Kyun (Daniel) Park, currently a Joint Stats+CS MS student at Purdue University.
+Welcome to my GitHub Page. I am Hyeong Kyun (Daniel) Park, currently a Joint Stats+CS MS student at Purdue University.
 </p>
 
 ## Github stats 📊
