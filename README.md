@@ -2,7 +2,7 @@
 
 <p></p>
 <p align="justify">
-Welcome to my GitHub Page. I am Hyeong Kyun (Daniel) Park, currently a Joint Stats+CS MS student at Purdue University. I also graduated from Purdue University with B.S. Computer Science, Data Science, Applied Statistics, and a Math minor.
+Welcome to my GitHub Page. I am Hyeong Kyun (Daniel) Park, currently a CS PhD candidate at Purdue University. I also graduated from Purdue University with a Joint M.S. in CS + Stat (2026), and B.S. Computer Science, Data Science, Applied Statistics, and a Math minor (2022).
 
 I love software development, AI, and academia-industry collaborations.
 </p>
